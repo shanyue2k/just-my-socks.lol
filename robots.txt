@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://just-my-socks.lol/sitemap.xml
